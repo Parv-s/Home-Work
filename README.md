@@ -13,10 +13,10 @@
 ![vowelorconsonant](https://github.com/Parv-s/Lab-Work/assets/146922256/7ccb1e15-c0c8-429f-9792-df0c8727dc23)
 ![evenorodd](https://github.com/Parv-s/Lab-Work/assets/146922256/f8e76b94-d63d-4f86-8035-e228f27e3543)
 ![distance](https://github.com/Parv-s/Lab-Work/assets/146922256/e1085ebd-7f7e-4257-8f91-454b9f45af2d)
-![area](https://github.com/Parv-s/Lab-Work/assets/146922256/26629443-e085-4e8e-be0
 ![factorial1](https://github.com/Parv-s/Lab-Work/assets/146922256/388fde65-028b-4ac9-9e57-1e13ed8bd37d)
 3-7bc6406d8f0b)
 ![hello world 3](https://github.com/Parv-s/Lab-Work/assets/146922256/7f6ab0d4-c817-4771-84b6-f5b2ee8b1070)
 ![hello world 2](https://github.com/Parv-s/Lab-Work/assets/146922256/d3812953-02df-49cf-be47-8e97c330af09)
 ![hello world prgram](https://github.com/Parv-s/Lab-Work/assets/146922256/86342a3b-dfe8-456c-ad1e-9f516883d0e4)
 ![arithmeticoperators](https://github.com/Parv-s/Lab-Work/assets/146922256/2d313634-22d7-4380-a7c9-84432ba42d38)
+![area](https://github.com/Parv-s/Lab-Work/assets/146922256/9fba4efe-16eb-4d3b-ae8d-4ad98ddbe4f3)
