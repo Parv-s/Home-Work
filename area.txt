@@ -1,0 +1,30 @@
+#include <stdio.h> 
+#include <math.h> 
+int main()
+{
+	float r,l,b,s;
+    printf("Enter radius of circle\n");
+    scanf("%f",&r);
+    printf("Enter side of square\n");
+    scanf("%f", &s);
+    printf("Enter length of rectangle\n");
+    scanf("%f", &l);
+    printf("Enter breadth of rectangle\n");
+    scanf("%f", &b);
+    float area,peri;
+    area= 3.14*r*r;
+    peri= 2*3.14*r;
+    printf("Area of circle : %.2f\n", area);
+    printf("Peri of circle : %.2f\n", peri);
+    float areas,peris;
+    areas= s*s;
+    peris= 4*s;
+    printf("Area of square : %.2f\n", areas);
+    printf("Peri of square : %.2f\n", peris);
+    float arear,perir;
+    arear= l*b;
+    perir= 2*(l+b);
+    printf("Area of rectangle: %.2f\n", arear);
+    printf("Peri of rectangle: %.2f\n", perir);
+    return 0;
+}
