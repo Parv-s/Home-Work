@@ -1,0 +1,25 @@
+# include <stdio.h>
+# include <conio.h>
+# include <string.h>
+int main()
+{
+char str1[40], str2[40] ;
+printf("Enter the first string : \n\n") ;
+gets(str1) ;
+printf("\nEnter the second string : \n\n") ;
+gets(str2) ;
+printf("\nString 1 = %s & String 2 = %s ", str1, str2) ;
+printf("- Length is : %d and %d", strlen(str1), strlen(str2)) ;
+printf("\n\nString 1 = %s & String 2 = %s ", str1, str2) ;
+printf("- Uppercase is : %s and %s", strupr(str1), strupr(str2));
+printf("\n\nString 1 = %s & String 2 = %s ", str1, str2) ;
+printf("- Lowercase is : %s and %s", strlwr(str1), strlwr(str2));
+printf("\n\nString 1 = %s & String 2 = %s ", str1, str2) ;
+printf("- Reverse is : %s and %s", strrev(str1), strrev(str2)) ;
+printf("\n\nString 1 = %s & String 2 = %s ", str1, str2) ;
+printf("- String copy is : %s ", strcpy(str1,str2));
+printf("\n\nString 1 = %s & String 2 = %s ", str1, str2) ;
+printf("- Concatenation is : %s ", strcat(str1,str2));
+printf("\n\nString 1 = %s & String 2 = %s ", str1, str2) ;
+return 0 ;
+}
