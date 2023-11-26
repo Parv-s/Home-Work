@@ -22,3 +22,4 @@
 ![area](https://github.com/Parv-s/Lab-Work/assets/146922256/9fba4efe-16eb-4d3b-ae8d-4ad98ddbe4f3)
 ![Exp7(a)](https://github.com/Parv-s/Home-Work/assets/146922256/e17c7a37-861b-4c06-86e8-d501670d5d10)
 ![Exp7(b)](https://github.com/Parv-s/Home-Work/assets/146922256/3f5f42a8-33f3-4996-9265-fe13ad7e2c6a)
+![Exp8(a)](https://github.com/Parv-s/Home-Work/assets/146922256/96be6dd3-4d22-433d-94e6-f40e1a09584e)
