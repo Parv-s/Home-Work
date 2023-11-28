@@ -25,3 +25,4 @@
 ![Exp8(a)](https://github.com/Parv-s/Home-Work/assets/146922256/96be6dd3-4d22-433d-94e6-f40e1a09584e)
 ![Exp8(b)](https://github.com/Parv-s/Home-Work/assets/146922256/e5cd53a1-a53a-4e2a-9a4e-dab5f2298ce1)
 ![calculator(switchcase)](https://github.com/Parv-s/Home-Work/assets/146922256/e75c40c6-bb18-4bf3-8cfb-b9f5588dfe8c)
+![directrecursionfibonacci](https://github.com/Parv-s/Home-Work/assets/146922256/d9a36172-0d7a-4ffd-a95a-94192597edb8)
